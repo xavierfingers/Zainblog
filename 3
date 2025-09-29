@@ -1,0 +1,1 @@
+( GET /ping HTTP/1.1 Host: ysap.daveeddy.com Connection: close  )
