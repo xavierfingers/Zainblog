@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0db7ae0 (Edit from feature branch)
 import math
 
 print(math.pi)
 
 
+<<<<<<< HEAD
 =======
 import requests
 
@@ -17,3 +21,5 @@ if request.status_code == 404:
 if request.status_code == 501:
    print("Not implemented")
 >>>>>>> 2160017 (Commit)
+=======
+>>>>>>> 0db7ae0 (Edit from feature branch)
