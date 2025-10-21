@@ -1,0 +1,6 @@
+[dependencies-bin]
+syscalls = "0.2"
+[package]
+name = "tcpserver"
+tcpserver = "0.1"
+

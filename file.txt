@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 "Change from feature branch" 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+"Change from main branch" 
+=======
+"Change from feature branch" 
+>>>>>>> 5c53fa9087c01996ae24498ff3cf0147484cd36c
+=======
+"Change from feature branch" 
+>>>>>>> 620b756 (Edit from feature branch)
+>>>>>>> main
