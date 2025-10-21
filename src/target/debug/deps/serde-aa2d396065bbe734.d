@@ -1,0 +1,14 @@
+C:\Users\zaino\documents\networkchuck-site\src\target\debug\deps\serde-aa2d396065bbe734.d: C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zaino\documents\networkchuck-site\src\target\debug\build\serde-d3bef7cf765969d8\out/private.rs
+
+C:\Users\zaino\documents\networkchuck-site\src\target\debug\deps\libserde-aa2d396065bbe734.rlib: C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zaino\documents\networkchuck-site\src\target\debug\build\serde-d3bef7cf765969d8\out/private.rs
+
+C:\Users\zaino\documents\networkchuck-site\src\target\debug\deps\libserde-aa2d396065bbe734.rmeta: C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zaino\documents\networkchuck-site\src\target\debug\build\serde-d3bef7cf765969d8\out/private.rs
+
+C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\zaino\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\zaino\documents\networkchuck-site\src\target\debug\build\serde-d3bef7cf765969d8\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\zaino\\documents\\networkchuck-site\\src\\target\\debug\\build\\serde-d3bef7cf765969d8\\out
