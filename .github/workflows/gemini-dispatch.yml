@@ -1,11 +1,5 @@
 name: '🔀 Gemini Dispatch'
-
 on:
-  pull_request_review_comment:
-    types:
-      - 'created'
-      - 'reopened'
-   
 schedule:
     - cron: "0 1 * *"
 
